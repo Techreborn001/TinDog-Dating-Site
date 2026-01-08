@@ -4,9 +4,9 @@ Tindog is a responsive, landing page designed as a social platform where dog own
 
 ## Technical Showcase: 
 
-This project served as my capstone to integrate niche front-end skills:
+This project served as my capstone to integrate the niche responsiveness front-end skill:
 
-- **End:** Built with HTML5 and styled using modern, utility-first CSS.
+- **Front End:** Built with HTML5 and styled using modern, utility-first CSS.
 
 - **Responsiveness:** Prioritized a mobile-first approach, ensuring pixel-perfect layout and optimal user experience across all device screen widths.
  
